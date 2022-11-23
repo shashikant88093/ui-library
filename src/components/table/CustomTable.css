@@ -1,0 +1,33 @@
+.table-row {
+    text-align: center;
+    box-shadow: 1px 1px 1px 1px rgb(0 0 0 / 20%);
+    margin-top:0.5rem;
+
+ }
+ .ReactVirtualized__Table__headerRow {
+    border: 0;
+    text-align: center;
+    
+
+    
+
+ }
+ .tableLayout{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: auto;
+  
+
+ }
+ .table-header{
+    color:#786767;
+    text-align: center;
+    /* box-shadow: 2px 2px 2px 2px rgb(0 0 0 / 20%); */
+
+
+
+ }
+ .table-cell{
+
+ }
